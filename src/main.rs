@@ -1,4 +1,4 @@
-mod mos_6502;
+mod cpu;
 
 fn main() {
     println!("Hello, world!");
